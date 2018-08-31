@@ -12,6 +12,24 @@ A nice rule of thumb is: "*When in doubt, **C-g** it out*"
  * **C-x C-s** - save buffer
  * **C-x C-f** - find file
  * **C-x u** - undo
+ * **C-x C-s** - save buffer
+ 
+### Navigation in emacs
+If you can master movement/navigation in emacs, you have conquered one of the biggest productivity boosts available to you, they say.  
+
+Even though it may seem sweet that emacs support the arrow keys, you will eventually realize that every time you take our hands off the "home row" you are wasting time!. An experienced emacs hacker uses the real emacs keys and made these a part of their muscle memory.
+
+#### Fundamental moving
+
+ * **C-f** - moving forward
+ * **C-b** - moving backward
+ * **C-p** - moving upward
+ * **C-n** - moving downward
+ 
+ * **C-a** - move to beginning of line
+ * **C-e** - move to end of line
+ 
+
  
 ### Manage and navigate between several buffers 
  * **C-x 0** - close buffer

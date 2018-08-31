@@ -28,7 +28,13 @@ A nice rule of thumb is: "*When in doubt, **C-g** it out*"
  * **C-s** - search + go to next search result
 
 
- 
- 
- 
+### Commands
+#### In general **M-x** should be typed before any command
+
+Some handy commands
+ * **M-x load-file** - reload any file
+
+
+## Magit
+
  

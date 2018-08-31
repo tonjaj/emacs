@@ -35,6 +35,8 @@ Some handy commands
  * **M-x load-file** - reload any file
 
 
-## Magit
+### Magit
 
- 
+### Useful links
+
+[Mastering emacc by Mickey Peterson - Effective Editing 1: Movement](https://www.masteringemacs.org/article/effective-editing-movement) 
